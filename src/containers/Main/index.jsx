@@ -4,6 +4,7 @@ import Board from './components/Board'
 import Panel from './components/Panel'
 import { ContainerStyled } from './style'
 
+
 function Main () {
     const [data, setData] = useState({})
     const [country, setCountry] = useState('germany')
